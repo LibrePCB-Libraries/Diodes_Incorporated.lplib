@@ -1,6 +1,6 @@
 (librepcb_device 23f083fe-4b40-490a-94ae-22bc916b2b0d
  (name "74AHC1G14W5")
- (description "Single 1-input Schmitt-trigger inverter gate with a standard push-pull output in a SOT25 package.\n\nThe device is designed for operation with a power supply range of 2.0V to 5.5V.")
+ (description "Single 1-input Schmitt-trigger inverter gate with a standard push-pull output in a SOT25 package.\n\nThe device is designed for operation with a power supply range of 2.0V to 5.5V.\n\nManufactured by Diodes Incorporated.")
  (keywords "schmitt,trigger,inverter")
  (author "Danilo Bargen")
  (version "0.1")
