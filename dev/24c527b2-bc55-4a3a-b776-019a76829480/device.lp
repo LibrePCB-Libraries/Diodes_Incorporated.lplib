@@ -1,5 +1,5 @@
 (librepcb_device 24c527b2-bc55-4a3a-b776-019a76829480
- (name "74AHC1G14 (SOT353)")
+ (name "74AHC1G14SE")
  (description "Single 1-input Schmitt-trigger inverter gate with a standard push-pull output in a SOT353 package.\n\nThe device is designed for operation with a power supply range of 2.0V to 5.5V.")
  (keywords "schmitt,trigger,inverter")
  (author "Danilo Bargen")
