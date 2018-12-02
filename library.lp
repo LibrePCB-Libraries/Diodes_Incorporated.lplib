@@ -7,4 +7,5 @@
  (created 2018-12-02T15:33:33Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Diodes_Incorporated.lplib")
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
 )
