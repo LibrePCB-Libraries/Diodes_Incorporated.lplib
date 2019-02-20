@@ -1,6 +1,6 @@
 (librepcb_device 49ecd8d7-13df-43d1-8c77-861a392fd3c9
  (name "DMG6601LVT")
- (description "Diodes Incorporated DMG6601LVT Dual MOSFET N/P-Channel 30V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- D\n- M\n- G\n- 6\n- 6\n- 0\n- 1\n- L\n- V\n- T\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMG6601LVT Dual MOSFET N/P-Channel 30V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMG6601LVT.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

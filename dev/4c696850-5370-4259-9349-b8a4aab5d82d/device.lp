@@ -1,6 +1,6 @@
 (librepcb_device 4c696850-5370-4259-9349-b8a4aab5d82d
  (name "DMC3028LSD[Q[X]]")
- (description "Diodes Incorporated DMC3028LSD[Q[X]] Dual MOSFET N/P-Channel 30V.\n\nDatasheet:\n- https://www.diodes.com/assets/Datasheets/DMC3028LSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3028LSDX.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3028LSDXQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC3028LSD[Q[X]] Dual MOSFET N/P-Channel 30V.\n\nDatasheets:\n- https://www.diodes.com/assets/Datasheets/DMC3028LSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3028LSDX.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3028LSDXQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

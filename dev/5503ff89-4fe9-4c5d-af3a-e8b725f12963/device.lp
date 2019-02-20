@@ -1,6 +1,6 @@
 (librepcb_device 5503ff89-4fe9-4c5d-af3a-e8b725f12963
  (name "DMC6040SSD[Q]")
- (description "Diodes Incorporated DMC6040SSD[Q] Dual MOSFET N/P-Channel 60V.\n\nDatasheet:\n- https://www.diodes.com/assets/Datasheets/DMC6040SSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC6040SSDQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC6040SSD[Q] Dual MOSFET N/P-Channel 60V.\n\nDatasheets:\n- https://www.diodes.com/assets/Datasheets/DMC6040SSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC6040SSDQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

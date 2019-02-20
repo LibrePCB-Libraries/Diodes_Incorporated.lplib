@@ -1,6 +1,6 @@
 (librepcb_device 847a1e94-579f-4929-bd94-3d9cd3b74c22
  (name "DMC4047LSD")
- (description "Diodes Incorporated DMC4047LSD Dual MOSFET N/P-Channel 40V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- D\n- M\n- C\n- 4\n- 0\n- 4\n- 7\n- L\n- S\n- D\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC4047LSD Dual MOSFET N/P-Channel 40V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMC4047LSD.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

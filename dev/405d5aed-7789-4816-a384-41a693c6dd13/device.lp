@@ -1,6 +1,6 @@
 (librepcb_device 405d5aed-7789-4816-a384-41a693c6dd13
  (name "DMC3025LSD[Q]")
- (description "Diodes Incorporated DMC3025LSD[Q] Dual MOSFET N/P-Channel 30V.\n\nDatasheet:\n- https://www.diodes.com/assets/Datasheets/DMC3025LSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3025LSDQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC3025LSD[Q] Dual MOSFET N/P-Channel 30V.\n\nDatasheets:\n- https://www.diodes.com/assets/Datasheets/DMC3025LSD.pdf\n- https://www.diodes.com/assets/Datasheets/DMC3025LSDQ.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_device 47cc3d7c-5e79-454e-8905-9871d301616f
  (name "DMC4050SSD[Q]")
- (description "Diodes Incorporated DMC4050SSD[Q] Dual MOSFET N/P-Channel 40V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- D\n- S\n- 3\n- 3\n- 3\n- 1\n- 0\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC4050SSD[Q] Dual MOSFET N/P-Channel 40V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DS33310.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

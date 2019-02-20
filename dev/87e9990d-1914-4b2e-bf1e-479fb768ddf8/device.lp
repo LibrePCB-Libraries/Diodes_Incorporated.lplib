@@ -1,6 +1,6 @@
 (librepcb_device 87e9990d-1914-4b2e-bf1e-479fb768ddf8
  (name "DMC2057UVT")
- (description "Diodes Incorporated DMC2057UVT Dual MOSFET N/P-Channel 20V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- D\n- M\n- C\n- 2\n- 0\n- 5\n- 7\n- U\n- V\n- T\n- 2\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC2057UVT Dual MOSFET N/P-Channel 20V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMC2057UVT2.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

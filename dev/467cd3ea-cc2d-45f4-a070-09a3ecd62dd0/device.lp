@@ -1,6 +1,6 @@
 (librepcb_device 467cd3ea-cc2d-45f4-a070-09a3ecd62dd0
  (name "DMC4028SSD")
- (description "Diodes Incorporated DMC4028SSD Dual MOSFET N/P-Channel 40V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- D\n- M\n- C\n- 4\n- 0\n- 2\n- 8\n- S\n- S\n- D\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC4028SSD Dual MOSFET N/P-Channel 40V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMC4028SSD.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")

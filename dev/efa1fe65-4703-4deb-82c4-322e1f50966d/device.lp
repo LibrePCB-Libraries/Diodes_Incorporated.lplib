@@ -1,6 +1,6 @@
 (librepcb_device efa1fe65-4703-4deb-82c4-322e1f50966d
  (name "DMC3032LSD")
- (description "Diodes Incorporated DMC3032LSD Dual MOSFET N/P-Channel 30V.\n\nDatasheet:\n- h\n- t\n- t\n- p\n- s\n- :\n- /\n- /\n- w\n- w\n- w\n- .\n- d\n- i\n- o\n- d\n- e\n- s\n- .\n- c\n- o\n- m\n- /\n- a\n- s\n- s\n- e\n- t\n- s\n- /\n- D\n- a\n- t\n- a\n- s\n- h\n- e\n- e\n- t\n- s\n- /\n- d\n- s\n- 3\n- 2\n- 1\n- 5\n- 3\n- .\n- p\n- d\n- f\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
+ (description "Diodes Incorporated DMC3032LSD Dual MOSFET N/P-Channel 30V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/ds32153.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
  (version "0.1")
