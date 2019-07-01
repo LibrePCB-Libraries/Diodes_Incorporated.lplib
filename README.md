@@ -4,7 +4,7 @@
 
 Discrete, logic, analog and mixed-signal semiconductors.
 
-Inofficial library, not endorsed by Diodes Incorporated.
+Unofficial library, not endorsed by Diodes Incorporated.
 
 ## License
 

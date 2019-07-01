@@ -1,6 +1,6 @@
 (librepcb_library 20918b1b-5aa4-470a-8026-2de47121c378
  (name "Diodes Incorporated")
- (description "Discrete, digital and analog semiconductors (inofficial).")
+ (description "Discrete, digital and analog semiconductors (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.2.1")
