@@ -15,4 +15,6 @@
  (pad a837e245-00a8-45f7-befe-8aaafc1001f8 (signal 2251453b-e6a4-4b7f-8314-8f9d6d94662f))
  (pad dc18d314-08ec-45f8-bd81-8b83857d1402 (signal cd55f150-0ddd-465d-8e06-65114058fd1f))
  (pad fa0eed07-e0ca-4ed6-bb33-4c54a46bb925 (signal a3d902b9-e181-4c17-9fd6-751589d44efd))
+ (part "74AHC1G14SE-7" (manufacturer "Diodes Incorporated")
+ )
 )

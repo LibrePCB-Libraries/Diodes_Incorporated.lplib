@@ -1,5 +1,5 @@
 (librepcb_device da6e628f-284f-4efc-bd87-750e455de1bb
- (name "DMC4029SSD")
+ (name "DMC4029SSD[Q]")
  (description "Diodes Incorporated DMC4029SSD Dual MOSFET N/P-Channel 40V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMC4029SSD.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
@@ -18,4 +18,9 @@
  (pad 77f3d8f5-8e7f-4fab-906a-76fe905b886a (signal e810e75b-a490-4e5f-8d0c-aa2a4553e39d))
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal fa09c163-2b6c-4235-8e2a-20b7f3b5387b))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 3202a2ee-d8be-4d8a-a0f4-2cbbd7022071))
+ (part "DMC4029SSD-13" (manufacturer "Diodes Incorporated")
+ )
+ (part "DMC4029SSDQ-13" (manufacturer "Diodes Incorporated")
+  (attribute "QUALIFICATION" (type string) (unit none) (value "AEC-Q101"))
+ )
 )

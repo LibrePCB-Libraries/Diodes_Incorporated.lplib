@@ -18,4 +18,6 @@
  (pad 77f3d8f5-8e7f-4fab-906a-76fe905b886a (signal e810e75b-a490-4e5f-8d0c-aa2a4553e39d))
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal fa09c163-2b6c-4235-8e2a-20b7f3b5387b))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 3202a2ee-d8be-4d8a-a0f4-2cbbd7022071))
+ (part "DMC2020USD-13" (manufacturer "Diodes Incorporated")
+ )
 )
