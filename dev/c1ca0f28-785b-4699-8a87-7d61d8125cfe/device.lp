@@ -3,7 +3,7 @@
  (description "600 mA CMOS LDO regulator with enable pin by Diodes Incorporated, SO-8 package.\n\nAvailable in different voltage variants: 1.2V, 1.8V, 2.5V, 2.6V and 3.3V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/AP2112.pdf")
  (keywords "ldo,ap2112")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-12-23T08:48:50Z)
  (deprecated false)
  (generated_by "")

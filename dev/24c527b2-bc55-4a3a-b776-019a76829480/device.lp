@@ -3,7 +3,7 @@
  (description "Single 1-input Schmitt-trigger inverter gate with a standard push-pull output in a SOT353 package.\n\nThe device is designed for operation with a power supply range of 2.0V to 5.5V.\n\nManufactured by Diodes Incorporated.")
  (keywords "schmitt,trigger,inverter")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-12-02T15:48:16Z)
  (deprecated false)
  (generated_by "")

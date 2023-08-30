@@ -3,7 +3,7 @@
  (description "Diodes Incorporated DMC2020USD Dual MOSFET N/P-Channel 20V.\n\nDatasheet: https://www.diodes.com/assets/Datasheets/DMC2020USD.pdf\n\nGenerated with librepcb-parts-generator (generate_mosfet_dual.py)")
  (keywords "mosfet,p-channel,p-fet,n-channel,n-fet,dual")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-02-04T20:23:03Z)
  (deprecated false)
  (generated_by "")
