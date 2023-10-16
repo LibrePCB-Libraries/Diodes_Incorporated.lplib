@@ -3,7 +3,7 @@
  (description "Discrete, digital and analog semiconductors (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.3")
+ (version "0.3.1")
  (created 2018-12-02T15:33:33Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Diodes_Incorporated.lplib")
